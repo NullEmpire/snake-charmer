@@ -1,4 +1,5 @@
-# Snake Charmer - start of a simple Flask / MongoDB Boilerplate
+# Snake Charmer 
+Start of a simple Flask / MongoDB Boilerplate (in progress)
 ==========
 
 ## Development
