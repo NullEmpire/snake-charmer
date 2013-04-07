@@ -1,4 +1,5 @@
-snake-charmer
-=============
+# Snake Charmer - start of a simple Flask / MongoDB Boilerplate
+==========
 
-Our python bootstrap for small apps and APIs
+## Development
+* run `source /venv/bin/activate` to start your virtual environment
